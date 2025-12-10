@@ -1,15 +1,15 @@
-#Header
--This is a bullet list
--Here is another
+## Dataset 1: FiveThirtyEight — Police Shootings
+**URL:** https://github.com/fivethirtyeight/data/tree/master/police-killings
 
-https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
+### Questions I Might Explore
+- How have police shooting incidents changed over time?
+- Are certain demographic groups disproportionately represented in these incidents?
 
-1. What is the most amount of servings?
-2. What country consumes the most beer?
-   Namibia	376 liters
+---
 
-https://github.com/fivethirtyeight/data/tree/master/chess-transfers
+## Dataset 2: CORGIS — Video Games
+**URL:** https://corgis-edu.github.io/corgis/csv/video_games/
 
-1. Who is the best ches player
-2. What are major problems with chess
-
+### Questions I Might Explore
+- Is there a relationship between video game sales and user/critic ratings?
+- Which game genres generate the highest global revenue over time?
