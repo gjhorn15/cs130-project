@@ -12,4 +12,6 @@
 
 ### Questions I Might Explore
 - Is there a relationship between video game sales and user/critic ratings?
+  Does game price and anything to do with global consumption?
 - Which game genres generate the highest global revenue over time?
+
