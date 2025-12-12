@@ -1,4 +1,4 @@
-Data Source(s)
+##Data Source(s)
 
 The dataset was downloaded directly from CORGIS (The Collection of Really Great, Interesting, Situated datasets).
 
@@ -7,7 +7,7 @@ https://corgis-edu.github.io/corgis/datasets/csv/video_games/video_games.csv
 
 Contains information on video game titles, platforms, genres, publishers, sales, review scores, and release dates.
 
-Data Preparation / Cleaning
+##Data Preparation / Cleaning
 
 Loaded the CSV file using pandas.read_csv().
 
@@ -54,7 +54,7 @@ Metrics.Sales
 
 Metrics.Review Score
 
-Assumptions
+##Assumptions
 
 Missing numeric values represent “unknown," not zero
 → They were dropped from correlation and trend analysis to avoid distortion.
@@ -71,7 +71,7 @@ Release years are assumed correct even if a game is released alongside a console
 Platforms listed as the same string are treated as identical
 Example: "PlayStation 4" vs "PS4" do not appear in the dataset, but if they did, the analysis assumes they are the same.
 
-Limitations
+##Limitations
 
 Dataset does not specify sales region
 → Could be global, U.S. only, or mixed reporting.
