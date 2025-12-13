@@ -1,6 +1,6 @@
 ## What Video Game Data Reveals About the Industry: A Data-Driven Story
 
-The video game industry is one of the most influential entertainment sectors in the world, shaping culture, technology, and the way millions of people spend their free time. But behind the flashy graphics and big releases are patterns—hidden in the data—that show what types of games people gravitate toward, how players respond to quality, and how the industry evolves over time.
+The video game industry is one of the most influential entertainment sectors in the world, shaping culture, technology, and the way millions of people spend their free time. But behind the flashy graphics and big releases are patterns hidden in the data that show what types of games people gravitate toward, how players respond to quality, and how the industry evolves over time.
 I wanted to dive deeper into these patterns using the CORGIS Video Games dataset and explore what the numbers say about the state of gaming. What I found paints a revealing picture of both player behavior and industry trends.
 
 ## Visualization 1: Which Genres Dominate the Market?
